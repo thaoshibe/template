@@ -5,8 +5,8 @@
 		"stylesheet-customizations.scss"
 	],
 	"sourcesContent": [
-		"// Put your custom CSS here if you want to override the defaults.\n// Here are some common customizations for colors\n\n// Customize the background color\nbody {\n  // background-color: #f2f2f2;;\n}\n\n// Customize the menubar color\n.ui.menu {\n  // background: $background-start;\n}\n\n// Customize the home page icon colors\n.icon-color {\n  // color: silver;\n}\n\n"
+		"// Put your custom CSS here if you want to override the defaults.\n// Here are some common customizations for colors\n\n// Customize the background color\nbody {\n\t// background-color: #deecf9;;\n}\n\n// Customize the menubar color\n.ui.menu {\n\t// background: #71afe5;\n}\n\n// Customize the home page icon colors\n.icon-color {\n  color: #71afe5;\n}\n\n"
 	],
 	"names": [],
-	"mappings": ""
+	"mappings": "AAcA,AAAA,WAAW,CAAC,EACV,KAAK,EAAE,OAAO,GACf"
 }

@@ -1,7 +1,12 @@
-# Technical Portfolio
+# Thao Checklist
 
-This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
+### Projects
 
-See the quick start guide for instructions on how to tailor the template to your own needs.
-
-
+- [ ] [Hanoi Transportaion](https://github.com/thaoshibe/han_transport_analysis)
+- [ ] [Face Parsing Makeup](https://github.com/thaoshibe/face-makeup.PyTorch)
+- [ ] [Let's Grab A Chair!](https://github.com/thaoshibe/lets-grab-a-chair-)
+- [ ] [Images Crawl from Google](https://github.com/thaoshibe/crawl-original-google-images)
+- [ ] [Simple Real-time Object Detection Demo](https://github.com/thaoshibe/simple-computer-vision-demo)
+- [ ] [Gui Makeup Transfer](https://github.com/thaoshibe/GUI-Makeup-Transfer.git)
+- [ ] [gevc](https://github.com/thaoshibe/GPD_GEV_Classifiers)
+- [ ] [Ahmove]

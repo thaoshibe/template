@@ -25,6 +25,16 @@
         "network": "linkedin",
         "username": "thaonguyen",
         "url": "https://www.linkedin.com/in/kimtuthap97/"
+      },
+      {
+        "network": "twitter",
+        "username": "thaonguyen",
+        "url": "https://twitter.com/kimtuthap97"
+      },
+      {
+        "network": "facebook",
+        "username": "thaonguyen",
+        "url": "https://www.facebook.com/kimtuthap97"
       }
     ]
   },
@@ -193,7 +203,7 @@
     {
       "type": "grant",
       "title": "Travel Grant",
-      "date": "2017",
+      "date": "2019",
       "awarder": "Nara's Women University",
       "summary": ""
     },
@@ -214,43 +224,25 @@
   ],
   "skills": [
     {
-      "name": "Programming",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
-        "R",
-        "Matlab"
+        "Java",
+        "Javascript",
+        "Meteor"
       ]
     },
     {
-      "name": "Query Languages",
+      "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "PostgreSQL", "Standard SQL"
+        "MacOS",
+        "Unix",
+        "Git/GitHub",
+        "g++",
+        "Emacs"
       ]
-    },
-    {
-      "name": "Libraries",
-      "level": "",
-      "keywords": [
-        "numpy", "matplotlib", "tqdm", "openCV", "pillow", "tensorflow", "pytorch",
-        "requests", "sklearn", "flask", "etc."
-      ]
-    },
-    {
-      "name": "IDEs",
-      "level": "",
-      "keywords": [
-        "Jupyter Notebook/ Jupyter Lab", "Sublime Text"
-      ]
-    },
-    {
-      "name": "OS",
-      "level": "",
-      "keywords": [
-        "Window", "Linux"
-      ]
-    },
+    }
   ],
   "languages": [
     {
