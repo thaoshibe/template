@@ -1,168 +1,283 @@
 {
   "basics": {
     "name": "Thao Nguyen",
-    "label": "AI Resident at VinAI Research ",
-    "picture": "https://github.com/thaoshibe/thaoshibe.github.io/blob/master/images/landingpage/pro5.png",
-    "email": "kimtuthap97@gmail.com",
+    "label": "AI Resident",
+    "picture": "https://raw.githubusercontent.com/thaoshibe/thaoshibe.github.io/master/images/landingpage/pro5.JPG",
+    // "picture": "./images/landingpage/pro5.JPG",
+    "email": "thao.ntp0414@gmail.com",
     "phone": "(+84) 963 559 403",
-    "website": "http://www.thaoshibe.ml",
-    "summary": "Hi, I'm Thao 🥰\nFresh-graduated from Hanoi University of Science and Technology. \nI'm working full-time at VinAI as AI Resident, focusing on Computer Vision and its applications.",
+    "website": "https://thaoshibe.github.io",
+    "summary": "I am AI Resident at [VinAI Research](https://www.vinai.io), working on image manipulation and synthesis. Before that, I was in Talent Engineering Class, got B.Eng. in Applied Mathematics - Informatics from [HUST](https://en.hust.edu.vn/web/en/home).",
     "location": {
-      "countryCode": "US",
-      "address": "Vietnam"
+      "address": "",
+      "postalCode": "",
+      "city": "Hanoi",
+      "countryCode": "VN",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "kimtuthap97",
+        "network": "github",
+        "username": "thaoshibe",
+        "url": "http://github.com/thaoshibe"
+      },
+      {
+        "network": "linkedin",
+        "username": "thaonguyen",
         "url": "https://www.linkedin.com/in/kimtuthap97/"
       },
       {
-        "network": "GitHub",
-        "username": "thaoshibe",
-        "url": "https://www.linkedin.com/in/kimtuthap97/"
+        "network": "twitter",
+        "username": "thaonguyen",
+        "url": "https://twitter.com/kimtuthap97"
+      },
+      {
+        "network": "facebook",
+        "username": "thaonguyen",
+        "url": "https://www.facebook.com/kimtuthap97"
       }
     ]
   },
   "work": [
     {
       "company": "VinAI Research",
-      "endDate": "",
-      "highlights": [],
       "position": "AI Resident",
-      "startDate": "2019-07-31",
-      "summary": null,
-      "website": "https://www.linkedin.com/company/31019933"
+      "website": "https://www.vinai.io",
+      "startDate": "2019-07-01",
+      "endDate": "Present",
+      "summary": "Computer Vision Group",
+      "highlights": [
+        "Make Up Transfer and Its Applications",
+        "Domain generation",
+        ""
+      ]
     },
     {
-      "company": "KidsCode",
-      "endDate": "2020-07-31",
-      "highlights": [],
+      "company": "KidsCode STEM",
       "position": "Research Intern",
-      "startDate": "2020-05-31",
-      "summary": null,
-      "website": ""
+      "website": "https://kidscode.edu.vn",
+      "startDate": "2020-03-01",
+      "endDate": "2020-07-01",
+      "summary": "Research Department, 'Robot Perception Project'",
+      "highlights": [
+        "Object Detection with Yolov3",
+        "Adruino Robots"
+      ]
     },
     {
-      "company": "AhaMove",
-      "endDate": "2019-07-31",
-      "highlights": [],
-      "position": "Data Scientist (Collaborator)",
-      "startDate": "2018-03-31",
-      "summary": "- Surge Pricing project\n- Building Customer's Lifetime Value model.\n- Analysis customer behavior.\n- Analysis A/B Testing results.",
-      "website": "https://www.linkedin.com/company/6587395"
+      "company": "Ahamove",
+      "position": "Data Scientist",
+      "website": "https://ahamove.com/pages/about-us",
+      "startDate": "2018-03-01",
+      "endDate": "2029-07-01",
+      "summary": "Business Intelligence Department,",
+      "highlights": [
+        "Dynamic Pricing: Python + LightGBM, this win the Project of the year! 2019",
+        "Customer Lifetime Value: using R",
+        "A/B Testing",
+        "Call Center Analysis"
+      ]
     },
     {
-      "company": "SkyMap Global Pte Ltd",
-      "endDate": "2018-02-28",
-      "highlights": [],
-      "position": "Software Quality Assurance Analyst",
-      "startDate": "2017-07-31",
-      "summary": "- Design test cases, testing on Salestrekk.com",
-      "website": "https://www.linkedin.com/company/2966524"
+      "company": "Skymap Global",
+      "position": "Software Tester",
+      "website": "https://skymapglobal.com",
+      "startDate": "2018-03-01",
+      "endDate": "2019-03-01",
+      "summary": "SalesTrekk Project",
+      "highlights": [
+        "Served as Quality Assurance Tester on developing an employee management system -- SalesTrekk"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Hanoi University of Science and Technology",
-      "position": "Member of Media and Community Club",
-      "website": "https://www.linkedin.com/company/18063954",
-      "startDate": "2015-09-30",
-      "endDate": "2015-12-31",
-      "summary": "I joined in planning and organizing some student events (Khoi Hanh Camp, etc)",
-      "highlights": []
+      "organization": "SheCodes Vietnam",
+      "position": "Content Collaborator",
+      "website": "https://www.facebook.com/shecodesvietnam/",
+      "summary": "The most active non-profit organization, supports and provides Vietnamese women with resources to learn more about tech",
+      "highlights": [
+        "Resourcing for the talk show “Women 4.0: Challenges or Opportunities?”. The purpose of talk show was to empower undergraduate students entering IT field."
+      ]
     },
     {
-      "organization": "Hanoi University of Science and Technology",
-      "position": "Admissions Consultant",
-      "website": "https://www.linkedin.com/company/18063954",
-      "startDate": "2016-06-30",
-      "endDate": "2016-06-30",
-      "summary": "At Bach Khoa Openday (the biggest Openday in Vietnam), I gave high school students advice about university admissions.\nMore information at https://www.facebook.com/BachKhoaOpenDay/",
-      "highlights": []
+      "organization": "Union of Student Association",
+      "website": "https://www.facebook.com/hoisinhvienbkhn/",
+      "position": "Media and Communication Department",
+      "summary": "",
+      "highlights": [
+        "Organization “Khoi Hanh” camp, which is an annual camp to welcome freshman"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "Hanoi University of Science and Technology",
-      "area": "Applied Mathematics - Informatics",
-      "studyType": "Bachelor of Engineering - BE",
-      "startDate": "2015-12-31",
-      "endDate": "2020-12-31",
+      "institution": "Hanoi University of Science and Technology, Hanoi, Vietnam",
+      "area": "Mathematics - Informatics",
+      "studyType": "B.Eng. (Talented Class)",
+      "startDate": "2015-08-01",
+      "endDate": "2020-08-01",
       "gpa": "",
-      "courses": []
+      "highlights": [
+        "Thesis: Makeup Transfer"
+      ],
+      "courses": [
+        "Thesis: Make Up Transfer"
+      ]
     },
     {
-      "institution": "Universitas Surabaya (UBAYA)",
-      "area": "Computer Technology/Computer Systems Technology",
-      "studyType": "Summer Program",
-      "startDate": "2019-12-31",
-      "endDate": "2019-12-31",
-      "gpa": "A",
-      "courses": []
-    },
-    {
-      "institution": "Nara Women's University",
-      "area": "STEM",
-      "studyType": "Science camp of Collaborative Organization for Research in Women’s Education of STEM",
-      "startDate": "2017-12-31",
-      "endDate": "2017-12-31",
-      "gpa": "A",
-      "courses": []
-    },
-
-    {
-      "institution": "Thai Nguyen Gifted High School",
-      "area": "",
-      "studyType": "Mathematics specificed class",
-      "startDate": "2012-12-31",
-      "endDate": "2015-12-31",
+      "institution": "University of Surabaya (UBAYA), Surabaya, Indonesia",
+      "area": "Summer School",
+      "studyType": "Exchange Student",
+      "endDate": "2019-12-01",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "'Technology meets Nature': How Technology helps"
+      ]
+    },
+    {
+      "institution": "Nara's Women University, Nara, Japan",
+      "area": "Summer Camp",
+      "studyType": "Exchange Student",
+      "summary": "Science camp of Collaborative Organization for Research in Women’s Education of STEM",
+      "endDate": "2017-08-01",
+      "gpa": "",
+      "courses": [
+        "Science camp of Collaborative Organization for Research in Women’s Education of STEM"
+      ]
+    },
+    {
+      "institution": "Thai Nguyen Highschool for Gifted Students",
+      "area": "Highschool",
+      "studyType": "Mathematics-specificed class",
+      "endDate": "2015-08-01",
+      "startDate": "2012-08-01",
+      "gpa": "",
+      "courses": [
+        "Mathematics"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer",
+      "type": "conference",
+      "author": "Thao Nguyen, Anh Tran, Minh H. Nguyen",
+      "publisher": "preprint",
+      "releaseDate": "",
+      "website": "/",
+      "summary": "Under-review CVPR'21"
+    },
+    {
+      "name": "FineNet: Frame Interpolation and Enhancement for Face Video Deblurring",
+      "type": "conference",
+      "author": "Phong Tran, Anh Tran, Thao Nguyen, Minh H. Nguyen",
+      "publisher": "preprint",
+      "releaseDate": "",
+      "website": "/",
+      "summary": "Under-review CVPR'21"
     }
   ],
   "awards": [
     {
-      "title": "Dean's Award",
-      "date": "2017-08-31",
-      "awarder": null,
-      "summary": "Dean's Award - Score camp for of Collaborative Organization in Research in Women's Education of STEM"
+      "type": "award",
+      "title": "The most valuable project of the year",
+      "date": "2019",
+      "awarder": "Ahamove",
+      "summary": "For the most Tech's project which creates innovation and profitable of the year, Ahamove"
+    },
+    {
+      "type": "grant",
+      "title": "Travel Grants",
+      "date": "2019",
+      "awarder": "University of Surabaya",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Dean's Award (Top 5%)",
+      "date": "2017",
+      "awarder": "Nara's Women University",
+      "summary": "This award was for the most creative and outstanding two-member team among SCORE 2017' 15 teams"
+    },
+    {
+      "type": "grant",
+      "title": "Travel Grant",
+      "date": "2019",
+      "awarder": "Nara's Women University",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Study Encouragement Scholarship (Top 5%)",
+      "date": "2015",
+      "awarder": "Hanoi University of Science and Technology",
+      "summary": "This scholarship is for students with excellent study achievements in first-year. Also, I was nominated from Normal Class to Talented Engineering Class"
+    },
+    {
+      "type": "award",
+      "title": "National Siliver Medal",
+      "date": "2012",
+      "awarder": "Violympic - Vietnam Online Mathematics Content for Highschool Students",
+      "summary": "Before got in National Content, I passed City and Province Content (Top 10%)"
     }
   ],
-  "publications": [],
   "skills": [
     {
-      "name": "Teamwork",
+      "name": "Languages and Frameworks",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Java",
+        "Javascript",
+        "Meteor"
+      ]
     },
     {
-      "name": "Data Analysis",
+      "name": "Toolsets/OS",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Business Analysis",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "MacOS",
+        "Unix",
+        "Git/GitHub",
+        "g++",
+        "Emacs"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "Vietnamese",
-      "fluency": "Native Speaker"
+      "name": "Vietnamese",
+      "level": "Native speaker"
+    },
+    {
+      "name": "Japanese",
+      "level": "Beginner"
+    },
+    {
+      "name": "English",
+      "level": "Advanced"
     }
   ],
-  "interests": [{"name": "image manipulation, image editing, unbias datasetand, 3D modeling"}],
-  "references": []
+  "interests": [
+    {
+      "name": "image manipulation",
+      "keywords": []
+    },
+    {
+      "name": "unbias dataset",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "image editing",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "referece": ""
+    }
+  ]
 }
