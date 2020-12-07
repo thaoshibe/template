@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: MELODY
+title: 📄 MELODY
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-07
 labels:
   - visual understading
   - explainable AI
+  - reading
 ---
 
 <img class="ui left floated image" src="../images/essays/melogy1.png">
