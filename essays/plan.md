@@ -37,3 +37,7 @@ pro of color:
 
 https://graphicdesign.stackexchange.com/questions/76824/what-are-the-pros-and-cons-of-using-lab-color
 https://en.wikipedia.org/wiki/Opponent_process
+
+# Planning
+
+1. 5-pages research

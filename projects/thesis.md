@@ -22,6 +22,8 @@ We further extend the existing framework in BeautyGAN. We apply the so-called Be
 
 - [Slides](https://docs.google.com/presentation/d/1kGspFe0zeXK6mwabWXZ-KqPbDzsmQC8cg0DbT4kcWe4/edit?usp=sharing)
 - [Result Video - Coming Soon]
+- [Code for Webdemo](https://github.com/thaoshibe/Facial-Makeup-Web)
+- [Code for GUI demo](https://github.com/thaoshibe/GUI-Makeup-Transfer)
 
 
 
