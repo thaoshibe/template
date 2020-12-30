@@ -11,7 +11,7 @@ labels:
 summary: Could we use the Beauty Mask for Makeup Transfer task?
 ---
 
-<div class="ui small rounded images">
+<div class="images">
   <img class="ui image" src="../images/projects/beautymask.jpg">
 </div>
 
