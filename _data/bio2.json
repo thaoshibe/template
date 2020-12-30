@@ -158,26 +158,6 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer",
-      "type": "conference",
-      "author": "Thao Nguyen, Anh Tran, Minh H. Nguyen",
-      "publisher": "preprint",
-      "releaseDate": "",
-      "website": "/",
-      "summary": "Under-review CVPR'21"
-    },
-    {
-      "name": "FineNet: Frame Interpolation and Enhancement for Face Video Deblurring",
-      "type": "conference",
-      "author": "Phong Tran, Anh Tran, Thao Nguyen, Minh H. Nguyen",
-      "publisher": "preprint",
-      "releaseDate": "",
-      "website": "/",
-      "summary": "Under-review CVPR'21"
-    }
-  ],
   "awards": [
     {
       "type": "award",
