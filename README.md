@@ -1,1 +1,1 @@
-[![Thao's github stats](https://github-readme-stats.vercel.app/api?username=thaoshibe)](https://github.com/thaoshibe/github-readme-stats&theme=tokyonight)
+[![Thao's github stats](https://github-readme-stats.vercel.app/api?username=thaoshibe&show_icons=true&theme=algolia)](https://github.com/thaoshibe/github-readme-stats&show_icons=true&theme=algolia)
